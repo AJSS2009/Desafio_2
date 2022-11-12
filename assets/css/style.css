@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+body {
+  font-family: sans-serif, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: black;
+}
+.main {
+  background-image: url("../imgs/top.avif");
+  background-position: center;
+  background-size: cover;
+  height: 100px;
+  padding: 120px;
+}
+.main h1 {
+  text-align: right;
+  font-size: 40px;
+}
+.main p {
+  text-align: right;
+  font-size: 20px;
+}
+
+.products {
+  text-align: left;
+  width: 80%;
+  margin: auto;
+}
+.products img {
+  width: 180px;
+  margin: 25px;
+}
+.products td {
+  width: 50%;
+  text-align: left;
+}
+.footer {
+  background-color: green;
+  color: darkkhaki;
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+}
